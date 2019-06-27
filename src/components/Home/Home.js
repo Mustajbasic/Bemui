@@ -1,4 +1,4 @@
-import { Component, AppEngine } from '../../../bemui/Bemui';
+import { Component, AppEngine } from '../../../lib/Bemui';
 import {default as HomeTemplate} from './Home.html';
 import {default as HomeStyle} from './Home.css';
 

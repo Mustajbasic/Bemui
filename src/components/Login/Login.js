@@ -1,4 +1,4 @@
-import { Component, AppEngine } from '../../../bemui/Bemui';
+import { Component, AppEngine } from '../../../lib/Bemui';
 
 import {default as LoginTemplate} from './Login.html';
 import {default as LoginStyle} from './Login.css';

@@ -1,4 +1,4 @@
-import { Component, AppEngine } from '../../../bemui/Bemui';
+import { Component, AppEngine } from '../../../lib/Bemui';
 
 import {default as MenuTemplate} from './Menu.html';
 import {default as MenuStyle} from './Menu.css';

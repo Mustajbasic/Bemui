@@ -1,4 +1,4 @@
-import { Component, AppEngine } from '../../../bemui/Bemui';
+import { Component, AppEngine } from '../../../lib/Bemui';
 import {default as FourOhFourTemplate} from './404.html';
 
 import Menu from '../Menu/Menu';
